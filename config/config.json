@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x28777358E18b48c44Fc84ADF04d04BCEEB57369C",
+  "SCAN_LINK": "https://etherscan.io/address/0x28777358e18b48c44fc84adf04d04bceeb57369c",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Dino Frens",
+  "SYMBOL": "Dino",
+  "MAX_SUPPLY": 6000,
+  "DISPLAY_COST": 0.002,
+  "GAS_LIMIT": 145586,
+  "MAX_PER_TX": 10,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dinofrensnft",  
+  "Twitter": "https://twitter.com/DinoFrensETH",
+  "SHOW_BACKGROUND": false
+}
